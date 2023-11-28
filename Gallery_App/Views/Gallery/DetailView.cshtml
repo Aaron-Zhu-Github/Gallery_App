@@ -1,0 +1,50 @@
+﻿@model Image
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="equal-size-image-container">
+                <img src="~/@Model.Url" alt="Image" class="img-fluid">
+            </div>
+            <!--<div>-->
+                <!--<button onclick="prevImage()" class="btn btn-primary">Previous</button>
+                <button onclick="nextImage()" class="btn btn-primary">Next</button>-->
+                <!--<a href="~/Gallery/Index" class="btn btn-primary">Close</a>
+            </div>-->
+        </div>
+    </div>
+</div>
+
+<script>
+@*<script>
+    var images = document.querySelectorAll('.swipe-image');
+    var currentIndex = 0;
+
+    function showImage(index) {
+
+        if (index >= 0 && index < images.length) {
+            currentIndex = index;
+            images[currentIndex].style.display = 'block';
+
+
+            for (var i = 0; i < images.length; i++) {
+                if (i !== currentIndex) {
+                    images[i].style.display = 'none';
+                }
+            }
+        }
+    }
+
+    function prevImage() {
+
+        showImage(currentIndex - 1);
+    }
+
+    function nextImage() {
+
+        showImage(currentIndex + 1);
+    }
+
+    showImage(currentIndex);
+</script>*@
+</script>

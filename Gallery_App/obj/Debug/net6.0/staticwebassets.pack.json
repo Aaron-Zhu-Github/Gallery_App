@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/obj/Debug/net6.0/scopedcss/projectbundle/Gallery_App.bundle.scp.css",
+      "PackagePath": "staticwebassets/Gallery_App.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image1.jpg",
+      "PackagePath": "staticwebassets/images/image1.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image10.jpg",
+      "PackagePath": "staticwebassets/images/image10.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image11.jpg",
+      "PackagePath": "staticwebassets/images/image11.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image12.jpg",
+      "PackagePath": "staticwebassets/images/image12.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image13.jpg",
+      "PackagePath": "staticwebassets/images/image13.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image14.jpg",
+      "PackagePath": "staticwebassets/images/image14.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image15.jpg",
+      "PackagePath": "staticwebassets/images/image15.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image2.jpg",
+      "PackagePath": "staticwebassets/images/image2.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image3.jpg",
+      "PackagePath": "staticwebassets/images/image3.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image4.jpg",
+      "PackagePath": "staticwebassets/images/image4.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image5.jpg",
+      "PackagePath": "staticwebassets/images/image5.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image6.jpg",
+      "PackagePath": "staticwebassets/images/image6.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image7.jpg",
+      "PackagePath": "staticwebassets/images/image7.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image8.jpg",
+      "PackagePath": "staticwebassets/images/image8.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/images/image9.jpg",
+      "PackagePath": "staticwebassets/images/image9.jpg"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/aaron_zhu/Desktop/Challenge/Gallery_App/Gallery_App/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Gallery_App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Gallery_App.props",
+      "PackagePath": "build\\Gallery_App.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Gallery_App.props",
+      "PackagePath": "buildMultiTargeting\\Gallery_App.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Gallery_App.props",
+      "PackagePath": "buildTransitive\\Gallery_App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

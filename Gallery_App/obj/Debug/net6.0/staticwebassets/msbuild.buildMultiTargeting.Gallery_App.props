@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Gallery_App.props" />
+</Project>
